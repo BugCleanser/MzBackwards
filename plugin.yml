@@ -1,0 +1,6 @@
+name: MzBackwards
+author: ["Meng Zhao","Lv Yitian"]
+version: 1.3
+main: mz.backwards.MzBackwards
+depend: [MzLib,ViaVersion,ViaBackwards]
+api-version: 1.13
